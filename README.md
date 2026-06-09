@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E1ADB1&height=180&section=header&text=Daniela%20Elena%20Ene&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20·%20DAW%20Student%20·%20Erasmus+%20%F0%9F%87%AE%F0%9F%87%B8&descAlignY=58&descSize=16&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E1ADB1&height=180&section=header&text=Daniela%20Elena%20Ene&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20·%20DAW%20Graduate&descAlignY=58&descSize=16&descColor=ffffff" />
 
 <br/>
 
@@ -13,23 +13,20 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1ADB1&center=true&vCenter=true&width=435&lines=Web+Developer;WordPress+%26+Elementor+Pro;React+%7C+Angular+%7C+Tailwind;Erasmus%2B+%40+RIFF+Iceland" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1ADB1&center=true&vCenter=true&width=435&lines=Web+Developer;WordPress+%26+Elementor+Pro;React+%7C+Angular+%7C+Tailwind;Open+to+new+opportunities" alt="Typing SVG" />
 
 </div>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E1ADB1&height=2&section=header" width="100%"/>
 
 ### About Me
 
-Hey, I'm **Daniela** — a web developer and DAW student from Spain, currently on an **Erasmus+ internship in Reykjavík, Iceland**, where I manage and develop two WordPress production websites for the [Reykjavík International Film Festival (RIFF)](https://riff.is).
+Hey, I'm **Daniela** — a web developer and DAW graduate from Spain.
 
-- WordPress developer at **RIFF & UngRIFF** — Elementor Pro, custom CSS/JS, plugins, SEO & branding
-- Studying **Desarrollo de Aplicaciones Web (DAW)** at IES Alonso de Avellaneda
+- WordPress developer — Elementor Pro, custom CSS/JS, plugins, SEO & branding
+- Recently completed a **DAW degree** at IES Alonso de Avellaneda
 - Currently building **ZenTrip** — a React + Tailwind travel planner app
 - Languages: Spanish · Romanian · French · English
-- Also work in radio administration at **Onda Cero & Europa FM**
 - Open to new opportunities in web development
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E1ADB1&height=2&section=header" width="100%"/>
@@ -75,9 +72,9 @@ Hey, I'm **Daniela** — a web developer and DAW student from Spain, currently o
 
 **ZenTrip**
 
-Travel planner web app built with React + Node.js + Tailwind CSS. Features trip planning, weather integration and points of interest.
+Travel planner web app built with React + Tailwind CSS. Features trip planning, weather integration and points of interest.
 
-`React` `Node.js` `Tailwind CSS` `JavaScript`
+`React` `Tailwind CSS` `Firebase` `JavaScript`
 
 [View on GitHub](https://github.com/ZenTrip-DAW/ZenTrip)
 
@@ -86,7 +83,7 @@ Travel planner web app built with React + Node.js + Tailwind CSS. Features trip 
 
 **Mi Portafolio**
 
-Personal portfolio website showcasing my projects, skills and experience — including my Erasmus+ journey in Iceland.
+Personal portfolio website showcasing my projects, skills and experience.
 
 `HTML` `CSS` `JavaScript`
 
@@ -108,9 +105,9 @@ Web application in Java with Spring Boot MVC and custom API integration.
 </td>
 <td width="50%" valign="top">
 
-**Currently @ RIFF Iceland**
+**RIFF & UngRIFF**
 
-During my Erasmus+ internship at the Reykjavík International Film Festival, I maintain and improve [riff.is](https://riff.is) and [ungriff.is](https://ungriff.is) — custom CSS/JS, Elementor Pro, plugin management and SEO.
+WordPress production websites developed during my Erasmus+ internship at the Reykjavík International Film Festival — custom CSS/JS, Elementor Pro, plugin management and SEO.
 
 `WordPress` `Elementor Pro` `CSS/JS`
 
