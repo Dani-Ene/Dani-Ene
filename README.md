@@ -121,10 +121,10 @@ WordPress production websites developed during my Erasmus+ internship at the Rey
 
 <div align="center">
 
-![Daniela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani-Ene&show_icons=true&theme=tokyonight&hide_border=true&icon_color=E1ADB1&title_color=E1ADB1&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Ene&layout=compact&theme=tokyonight&hide_border=true&title_color=E1ADB1)
+![Daniela's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dani-Ene&show_icons=true&theme=tokyonight&hide_border=true&icon_color=E1ADB1&title_color=E1ADB1&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dani-Ene&layout=compact&theme=tokyonight&hide_border=true&title_color=E1ADB1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dani-Ene&theme=tokyonight&hide_border=true&ring=E1ADB1&fire=E1ADB1&currStreakLabel=E1ADB1)
+![GitHub Streak](https://ghchart.rshah.org/E1ADB1/Dani-Ene)
 
 </div>
 
