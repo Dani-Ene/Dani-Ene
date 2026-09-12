@@ -121,8 +121,8 @@ WordPress production websites developed during my Erasmus+ internship at the Rey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dani-Ene&show_icons=true&theme=tokyonight&hide_border=true&icon_color=E1ADB1&title_color=E1ADB1&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Ene&layout=compact&theme=tokyonight&hide_border=true&title_color=E1ADB1" height="180"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dani-Ene&show_icons=true&theme=tokyonight&hide_border=true&icon_color=E1ADB1&title_color=E1ADB1&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dani-Ene&layout=compact&theme=tokyonight&hide_border=true&title_color=E1ADB1" height="180"/>
 
 <img src="https://ghchart.rshah.org/E1ADB1/Dani-Ene" width="720"/>
 
